@@ -19,8 +19,7 @@ body{
 header{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    margin-left: 100px;
+    margin-left: 150px;
     padding-top: 42px;
 }
 
@@ -29,7 +28,7 @@ header nav ul{
     list-style: none;
 }
 header nav ul li{
-   margin-right: 70%;
+   margin-right: 40px;
 }
 header nav ul li a{
     color: #000133;
