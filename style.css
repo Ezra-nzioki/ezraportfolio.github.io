@@ -19,7 +19,7 @@ body{
 header{
     display: flex;
     text-align: center;
-    margin-left: 40px;
+    margin-left: 20px;
     
     padding-top: 42px;
 }
@@ -103,7 +103,7 @@ header nav ul li a:hover{
     background-color: #6b7c85;
 }
 .contact-info{
-    margin-left: 60px  ;
+    padding-left: 60px ;
     padding-top: 50px;
     color: #005249;
     text-align: center;
